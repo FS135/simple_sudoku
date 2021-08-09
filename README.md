@@ -1,1 +1,1 @@
-# simple_sudoku
+# simple sudoku
